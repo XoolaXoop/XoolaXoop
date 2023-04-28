@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmallProger
+- 👋 Hi, I’m @chapa_chapa
 - 👀 I’m interested in WEB development
 - 🌱 I’m currently learning JS, HTML, CSS, React, Redux, C
 
